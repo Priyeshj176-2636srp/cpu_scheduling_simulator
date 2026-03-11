@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 #include "parser.h"
-
 #define all(v) v.begin(), v.end()
 
 using namespace std;

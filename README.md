@@ -132,7 +132,7 @@ entered as 2-4 means Round Robin with q=4. Also, policy 8-1 means Aging with q=1
 ## Author
 
 Priyesh Jaiswal  
-B.Tech Computer Science and Engineering (2023–2027)  
+B.Tech Computer Science and Engineering (2024–2028)  
 Birla Institute of Technology, Mesra  
 
 GitHub: https://github.com/Priyeshj176-2636srp
